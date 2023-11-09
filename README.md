@@ -15,7 +15,7 @@
 | Q5   | Write a C program to find largest element in an array  | [Link] (https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_05_namratha.c)   |
 | Q6   | Write a menu driven program to perform the following operations in an ARRAY </br> 1.INSERT </br> 2.DELETE </br> 3.TRAVERSE </br> 4.SEARCH </br> | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_06_namratha.c)   |
 | Q7   |  Define a structure data type called time_struct containing 3 members int hour, int minute and int second. Write functions that accept the structure to perform the following operations:</br>1. Input new time</br>2. Display the time</br>3. Update the time such that the function accepts the time_struct and increments the time by one second.If the increment results in 60 seconds, the then second member is set to 0 and the minute is incremented by 1. Then, if the result is 60 minutes, the minute member is set to 0 and the hour member is incremented by 1. Finally when the hour becomes 24, it is set to zero.   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/7d5502c9beb30c52da2740f178273163a6e1cfaf/28_07_namratha.c)  |
-| Q8   | Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise)   |[link] (https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_08_namratha.c)|
+| Q8   | Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise)   |[Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_08_namratha.c)|
 | Q9   | Write a program in C to count the total number of duplicate elements in an array   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_09_namratha.c)  |
 | Q10   | Write a program in C to print all unique elements in an array  | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_10_namratha.c)  |
 
@@ -36,8 +36,8 @@
 | Q11   | Write a program to implement Bubble sort/Selection Sort   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_21_namratha.c)  |
 | Q12   | Write a program to implement Insertion sort   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_22_namratha.c)  |
 | Q13   | Write a program to implement Merge sort   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_23_namratha.c)  |
-| Q14   | Write a program to implement Quick sort   | [Link]()  |
+| Q14   | Write a program to implement Quick sort   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/061d5571b21b673f5162d77c7dd064456c94f31c/28_14_namratha.c)  |
 | Q15   | Write a program to implement Binary Search   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/cc9db87982fe98ce5ab32b3b5bd9e896cfe930d4/28_25_namratha.c)  |
 | Q16   | Write a menu driven program to implement following operations in a binary search tree (BST).</br>1. Insertion of node</br>2. Search for an element </br>3. Count total nodes </br>4. Count Leaf nodes </br>| [Link] (https://github.com/namkera23/DSA-LAB-1_01/blob/7d5502c9beb30c52da2740f178273163a6e1cfaf/28_26_namratha.c)  |
-| Q17   | Write a program to implement traversal of a graph through BFS   | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/7d5502c9beb30c52da2740f178273163a6e1cfaf/28_27_namratha.c)  |
+| Q17   | Write a program to implement traversal of a graph through BFS   | [Link](https://github.com/namkera23/DSA-LAB 1_01/blob/7d5502c9beb30c52da2740f178273163a6e1cfaf/28_27_namratha.c)  |
 | Q18   | Write a program to implement traversal of a graph through DFS  | [Link](https://github.com/namkera23/DSA-LAB-1_01/blob/7d5502c9beb30c52da2740f178273163a6e1cfaf/28_28_namratha.c)  |
